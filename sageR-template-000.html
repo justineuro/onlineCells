@@ -1,11 +1,6 @@
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full"></script>
 <script type="text/javascript" src="https://sagecell.sagemath.org/embedded_sagecell.js"></script>
 <script>$(function () {
-// Make *any* div with class 'sagecell-sage' an executable Sage cell
-// Their results will be linked, only within language type
-sagecell.makeSagecell({inputLocation: 'div.sagecell-sage',linked: true,languages: ['sage'],evalButtonText: 'Evaluate Sage Code'});});
-</script>
-<script>$(function () {
 // Make *any* div with class 'sagecell-r' an executable Sage cell
 // Their results will be linked, only within language type
 sagecell.makeSagecell({inputLocation: 'div.sagecell-r',linked: true,languages: ['r'],evalButtonText: 'Evaluate R Code'});
@@ -15,5 +10,5 @@ sagecell.makeSagecell({inputLocation: 'div.sagecell-r',linked: true,languages: [
 
 
 <div class="sagecell-r">
-  <script type="text/x-sage">1+2</script>
+  <script type="text/x-sage">summary(cars) # try `plot(cars)` after this</script>
 </div>
