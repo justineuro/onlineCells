@@ -1,5 +1,5 @@
 ## onlineCells
-Contains generic HTML pages for accessing online cells for [SageMath Cell](https://sagecell.sagemath.org/), [DataCamp Light](https://github.com/datacamp/datacamp-light), and app embedding for[GeoGebra](https://wiki.geogebra.org/).
+Contains generic HTML pages for accessing online cells for [SageMath Cell (Generic)](https://justineuro.github.io/onlineCells/sageAll-template-000.html), [SageMath Cell (R)](https://justineuro.github.io/onlineCells/sageR-template-000.html), [DataCamp Light (Generic)](https://justineuro.github.io/onlineCells/dcl-template-001.html), [DataCamp Light (w/ feedback)](https://justineuro.github.io/onlineCells/dcl-template-001.html), and app embedding for [GeoGebra](https://justineuro.github.io/onlineCells/ggb-template-001.html).
 
 
 
